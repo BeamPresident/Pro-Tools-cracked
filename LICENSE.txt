@@ -16,4 +16,4 @@ Pro Tools Edition. industry-standard DAW with 256 tracks, Dolby Atmos mixing, ad
 
 
 TAGS
-pro-tools, aax-plugins, dolby-atmos-mixing         
+pro-tools, aax-plugins, dolby-atmos-mixing          
